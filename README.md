@@ -1,10 +1,18 @@
-💫 About Me:
-🔭 I’m currently working on<br>
-👯I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+💫 About Me:<br>
+3rd year Computer Engineering  student 💻</>👩🏻‍💻 <br>
+🔭 I’m diving into AI, transformers, and OpenGL in my classes. <br>
+
+👯 Let’s team up and share ideas! <br>
+
+🤝 I’d love some tips on advanced AI techniques.<br>
+
+🌱 Currently learning about pattern recognition and tech trends!<br>
+
+💬 Ask me about anything C related!<br>
+
+⚡ Fun fact: I love to talk !<br>
+
+
 
 
 ## 🌐 Socials:
