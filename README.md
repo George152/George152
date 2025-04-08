@@ -1,5 +1,5 @@
-💫 About Me:<br>
-3rd year Computer Engineering  student 💻</>👩🏻‍💻 <br>
+💫 About Me: 3rd year Computer Engineering  student 💻</>👩🏻‍💻 <br>
+
 🔭 I’m diving into AI, transformers, and OpenGL in my classes. <br>
 
 👯 Let’s team up and share ideas! <br>
