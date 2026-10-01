@@ -1,4 +1,4 @@
-💫 About Me: 3rd year Computer Engineering  student 💻</>👩🏻‍💻 <br>
+💫 About Me: 1st year Energy Engineering  student 💻</>👩🏻‍💻 <br>
 
 🔭 I’m diving into AI, transformers, and OpenGL in my classes. <br>
 
